@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">gptextapp</string>
+    <string name="application_logotype">Application Logotype</string>
+    <string name="application_credits">Developed by: <a href="https://github.com/antonylajes">Github/AntonyLajes</a></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_again">Olá, novamente!</string>
+    <string name="were_happy_to_see_you_again">Ficamos felizes em lhe ver mais uma vez</string>
+    <string name="or">Ou</string>
+    <string name="email">email</string>
+    <string name="continue_with_google">Continuar com o Google</string>
+    <string name="signin">Entrar</string>
+    <string name="dont_have_an_account_click_here">Não possui uma conta? <b>Clique aqui!</b></string>
+    <string name="password">senha</string>
+    <string name="signup_now">Inscreva-se agora!</string>
+    <string name="quickly_and_free">Totalmente rápido e gratuito</string>
+    <string name="back_to_signin_screen">Back to SignIn screen</string>
+    <string name="confim_password">confirmar senha</string>
+    <string name="signup">Criar</string>
+    <string name="chat">Chat</string>
+    <string name="nav_settings">Configurações</string>
+    <string name="help">Ajuda</string>
+    <string name="logout">Sair</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="settings">Configurações</string>
+    <string name="message">mensagem…</string>
+    <string name="button_send_message">Button send message.</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="user_image">User Image</string>
+    <string name="sended">sended</string>
+    <string name="received">received</string>
+    <string name="insert_your_email">Insira o seu email.</string>
+    <string name="insert_your_password">Insira a sua senha.</string>
+    <string name="confirm_your_password">Confirme a sua senha.</string>
+    <string name="verify_your_password">As senhas não são iguais</string>
+    <string name="user_created">Conta criada com sucesso!</string>
+    <string name="chatgpt_api7">https://chatgpt-api7.p.rapidapi.com/</string>
+    <string name="about_the_project">Sobre o projeto:</string>
+    <string name="about_the_project_desc">O GPText é um aplicativo desenvolvido para fins de estudos e experimentação, sem qualquer intenção de gerar receita financeira. Este app permite aos usuários enviar mensagens de texto e receber respostas geradas automaticamente pelo sistema, utilizando tecnologias de processamento de linguagem natural. Embora não seja comercializado, o GPText pode ser uma ferramenta útil para quem deseja explorar as possibilidades da inteligência artificial aplicada à comunicação textual.</string>
+    <string name="about_the_developer">Sobre o Desenvolvedor:</string>
+    <string name="about_the_developer_desc">Este jovem de 21 anos é um entusiasta de tecnologia, que desde cedo despertou seu interesse por inovações e novidades no ramo de desenvolvimento de aplicativos. Apesar de ter enfrentado uma infância difícil e uma vida marcada pela escassez financeira, ele sempre se esforçou para aprender e se atualizar em relação às novas tecnologias. Com uma determinação inabalável, ele sonha em fazer a diferença no mundo da tecnologia, criando aplicativos que possam impactar positivamente a vida das pessoas. Seus planos envolvem estudar e se especializar em programação e desenvolvimento de apps, sempre buscando inovar e encontrar soluções criativas para problemas do dia a dia. Embora ainda esteja no início de sua jornada, esse jovem tem todo o potencial para se destacar no mundo da tecnologia e alcançar seus sonhos de crescer e inovar no ramo de desenvolvimento de aplicativos com novas tecnologias e ideias.</string>
+    <string name="contact">Contato</string>
+    <string name="contact_desc">Para sugestões, duvidas, contato ou afins, clique em algum dos links abaixo:</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="github">GitHub</string>
+</resources>

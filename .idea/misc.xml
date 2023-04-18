@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/button_style_background.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/ic_back.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/ic_chat.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/ic_google.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/ic_linkedin.xml" value="0.296" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/ic_logo.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/input_text_style_background.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/drawable/user_logo_background.xml" value="0.297" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/activity_authentication.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/activity_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/fragment_chat.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/fragment_help.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/fragment_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/fragment_sign_up.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/message_received_item.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/message_sended_item.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/layout/navigation_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/gptextapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.296" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

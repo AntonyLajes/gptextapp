@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.view.fragments.ChatFragment">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="0dp"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/divise_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/divise_view"
+        android:layout_width="0dp"
+        android:layout_height="3dp"
+        android:background="@color/color_secondary"
+        app:layout_constraintBottom_toTopOf="@id/input_message"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/recycler_view" />
+
+    <EditText
+        android:id="@+id/input_message"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginVertical="8dp"
+        android:background="@drawable/input_text_style_background"
+        android:hint="@string/message"
+        android:importantForAutofill="no"
+        android:inputType="textMultiLine"
+        android:paddingStart="16dp"
+        android:paddingEnd="44dp"
+        android:paddingVertical="12dp"
+        android:textColor="@color/low_white"
+        android:textColorHint="@color/low_white"
+        app:layout_constraintBottom_toTopOf="@id/application_credits"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/divise_view" />
+
+    <ImageView
+        android:id="@+id/button_send_message"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:contentDescription="@string/button_send_message"
+        app:layout_constraintHorizontal_bias="0.98"
+        android:src="@drawable/ic_send"
+        app:layout_constraintBottom_toBottomOf="@+id/input_message"
+        app:layout_constraintEnd_toEndOf="@+id/input_message"
+        app:layout_constraintStart_toStartOf="@+id/input_message"
+        app:layout_constraintTop_toTopOf="@id/input_message" />
+
+    <TextView
+        android:id="@+id/application_credits"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="@string/application_credits"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/input_message" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

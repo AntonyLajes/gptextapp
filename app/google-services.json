@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179409836020",
+    "project_id": "gptextapp-c3142",
+    "storage_bucket": "gptextapp-c3142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179409836020:android:2257a3da795d3657824ba1",
+        "android_client_info": {
+          "package_name": "com.nomargin.gptextapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179409836020-alfr62tu1olma3eop6461ihhf94ji3qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPbpWdFUKPC7DY_Fo0Q5Kw2RzZXKd3EE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179409836020-alfr62tu1olma3eop6461ihhf94ji3qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
