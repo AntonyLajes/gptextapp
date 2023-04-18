@@ -9,4 +9,4 @@
 
 # Download
 
-### Baixe o GPTextAPP.apk no seguinte link: https://file.io/GqCb3FBEPftJ
+### Baixe o GPTextAPP.apk no seguinte link: https://easyupload.io/313yvb
